@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.ConfigurationModel", "src\log4net.ConfigurationModel\log4net.ConfigurationModel.csproj", "{2A15F683-2C9C-4CB0-90E5-46283DA54EF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.ConfigurationModel.Tests", "tests\log4net.ConfigurationModel.Tests\log4net.ConfigurationModel.Tests.csproj", "{69572835-6073-41C4-BD94-55CA7C486D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A15F683-2C9C-4CB0-90E5-46283DA54EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A15F683-2C9C-4CB0-90E5-46283DA54EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A15F683-2C9C-4CB0-90E5-46283DA54EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A15F683-2C9C-4CB0-90E5-46283DA54EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69572835-6073-41C4-BD94-55CA7C486D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69572835-6073-41C4-BD94-55CA7C486D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69572835-6073-41C4-BD94-55CA7C486D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69572835-6073-41C4-BD94-55CA7C486D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02DA49F8-1F77-47C5-B600-E3B070117C96}
+	EndGlobalSection
+EndGlobal
